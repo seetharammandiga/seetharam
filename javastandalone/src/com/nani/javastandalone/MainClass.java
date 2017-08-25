@@ -1,14 +1,11 @@
 package com.nani.javastandalone;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 
-//		this change for git
 		/*
 		 * Student student = new Student(); student.setAge("20");
 		 * student.setSname("seetharam"); student.setStudent(student); //
