@@ -6,6 +6,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 
+//		just one line comment
 		/*
 		 * Student student = new Student(); student.setAge("20");
 		 * student.setSname("seetharam"); student.setStudent(student); //
